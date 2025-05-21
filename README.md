@@ -7,6 +7,18 @@ Passionate about creating user-centered solutions that make a real difference<br
 ## 💡 What Drives Me
 I love building solutions that solve **local problems with global potential**<br>
 I’m especially excited about projects that empower underrepresented communities through technology<br>
+## 🌍 My Mission
+
+To create technology that empowers communities, improves lives, and drives progress across Africa and beyond.
+I believe in building software that’s not just functional, but impactful.
+
+
+## 💭 I Care About
+
+- Crafting intuitive and reliable mobile experiences  
+- Leveraging tech for social and economic development  
+- Learning continuously and sharing knowledge  
+- Creating long-term value through innovation
 
 
 ## 🌐 Socials:
